@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "149553783850",
+    "firebase_url": "https://mars-8a7b5-default-rtdb.firebaseio.com",
+    "project_id": "mars-8a7b5",
+    "storage_bucket": "mars-8a7b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149553783850:android:8e8c0ba31da6a91b870f53",
+        "android_client_info": {
+          "package_name": "com.example.marsjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149553783850-ddbg5a3ir90jrpbjigh8t6ndk0biq3ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEQ8MlbmYYqyWiFK6lk9e83yyDOiPti0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149553783850-ddbg5a3ir90jrpbjigh8t6ndk0biq3ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149553783850:android:58cefb790e9482fd870f53",
+        "android_client_info": {
+          "package_name": "mars.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149553783850-ddbg5a3ir90jrpbjigh8t6ndk0biq3ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEQ8MlbmYYqyWiFK6lk9e83yyDOiPti0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149553783850-ddbg5a3ir90jrpbjigh8t6ndk0biq3ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
